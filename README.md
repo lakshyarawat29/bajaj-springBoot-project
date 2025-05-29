@@ -1,6 +1,9 @@
+
+
 # Bajaj Spring Boot Challenge
 
 This is the Spring Boot application developed for the Bajaj Finserv Health coding challenge.
+SOLVING ODD PROBLEM according to the regNo. (roll no.)
 
 ## Overview
 
